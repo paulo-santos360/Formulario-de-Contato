@@ -27,5 +27,3 @@ Se você deseja entrar em contato ou enviar uma mensagem, basta preencher o form
 Este projeto é responsivo e se adapta a diferentes tamanhos de tela, tornando-o acessível em dispositivos móveis e desktops.
 
 ![Formulario](https://user-images.githubusercontent.com/102436341/228943347-2dc240aa-907c-4830-a043-1de6b0bc77f0.png)
-
-Sinta-se à vontade para contribuir, relatar problemas ou fazer sugestões para melhorar este projeto. Seja bem-vindo!
